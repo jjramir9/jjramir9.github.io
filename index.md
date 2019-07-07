@@ -7,7 +7,7 @@ I am currently a 2nd year undergradute at [UH](http://www.uh.edu/nsm/math/). I p
 I am currently interested in ..
 
 ### Personal Interest
-I enjoy running.
+I enjoy running and working on classic cars.
 
 ### Current activities
 I am currently at MSRI participating in [MSRI-UP](http://www.msri.org/msri_ups/920). I am currently researching Lattice patterns associated to Kostants Weight Multiplicity Formula for lie algebra G2.
